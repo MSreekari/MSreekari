@@ -13,8 +13,5 @@ Building full stack projects with React and Spring Boot<br>Full-stack projects i
 ![](https://nirzak-streak-stats.vercel.app/?user=MSreekari&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MSreekari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MSreekari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
