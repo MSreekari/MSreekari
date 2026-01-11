@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I’m a CS student building full-stack applications with React and Spring Boot.
+I’m a CS student learning to build full-stack applications with React and Spring Boot.
 
 I enjoy working on real-world projects involving authentication, RBAC, dashboards, and backend architecture, while improving my Java, OOP, and DSA skills.
 
