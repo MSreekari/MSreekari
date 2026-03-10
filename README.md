@@ -1,11 +1,15 @@
-## Hi there! 👋
+## Hi there! 👋 
 
-I’m a CS student learning to build full-stack applications with React and Spring Boot.
+I’m a Computer Science student focused on data analytics and building data-driven solutions.
 
-I enjoy working on real-world projects involving authentication, RBAC, dashboards, and backend architecture, while improving my Java, OOP, and DSA skills.
+My work involves analyzing real-world datasets using SQL and Python, building data pipelines, and creating automated reporting workflows to generate actionable business insights. I enjoy exploring how data can support decision-making and improve operational efficiency.
 
-Currently focused on learning clean system design and writing maintainable, production-ready code.
+Currently learning more about ETL pipelines, data engineering practices, and scalable analytics systems.
 
-
+### Key Areas of Interest
+- Data Analytics
+- SQL & Data Pipelines
+- Business Intelligence
+- Automation
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
