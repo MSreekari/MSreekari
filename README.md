@@ -1,15 +1,34 @@
-## Hi there! 👋 
+## Hi there! 👋
 
-I’m a Computer Science student focused on data analytics and building data-driven solutions.
+I’m a Computer Science student with a specialization in **Cybersecurity** and particulary focused on **Security Operations (SOC)**, with hands-on experience in building and analyzing real-world security systems.
 
-My work involves analyzing real-world datasets using SQL and Python, building data pipelines, and creating automated reporting workflows to generate actionable business insights. I enjoy exploring how data can support decision-making and improve operational efficiency.
+My work revolves around **threat detection, log analysis, and network monitoring**, where I simulate attacks, analyze system behavior, and understand how security teams detect and respond to incidents.
 
-Currently learning more about ETL pipelines, data engineering practices, and scalable analytics systems.
+I’m particularly interested in **defensive security**, including SIEM systems, incident response, and applying security principles to modern systems.
 
-### Key Areas of Interest
-- Data Analytics
-- SQL & Data Pipelines
-- Business Intelligence
-- Automation
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔐 What I Work On
+
+* Building **SOC environments** and simulating real-world cyber attacks
+* Analyzing logs and alerts using SIEM tools like **Wazuh**
+* Monitoring and inspecting network traffic for anomalies
+* Designing secure systems using **Zero Trust principles**
+
+---
+
+### ⚙️ Tech Stack
+
+* **Security & Tools:** Wazuh, Wireshark, Nmap, Kali Linux
+* **Languages:** Python, Java
+* **Concepts:** SIEM, Incident Response, Log Analysis, Network Security, ZTA
+
+---
+
+### 🚀 Currently Learning
+
+* Advanced SIEM and detection engineering
+* Threat hunting and incident response workflows
+* Real-world attack simulation and defense strategies
+
+---
