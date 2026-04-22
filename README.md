@@ -8,7 +8,7 @@ I’m particularly interested in **defensive security**, including SIEM systems,
 
 ---
 
-### 🔐 What I Work On
+### What I Work On
 
 * Building **SOC environments** and simulating real-world cyber attacks
 * Analyzing logs and alerts using SIEM tools like **Wazuh**
@@ -17,7 +17,7 @@ I’m particularly interested in **defensive security**, including SIEM systems,
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 * **Security & Tools:** Wazuh, Wireshark, Nmap, Kali Linux
 * **Languages:** Python, Java
@@ -25,10 +25,11 @@ I’m particularly interested in **defensive security**, including SIEM systems,
 
 ---
 
-### 🚀 Currently Learning
+### Currently Learning
 
-* Advanced SIEM and detection engineering
+* SIEM and detection engineering
 * Threat hunting and incident response workflows
 * Real-world attack simulation and defense strategies
-
+* Security standards like GDPR, HIPPA, ISO - 270001
+  
 ---
