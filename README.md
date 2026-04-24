@@ -10,16 +10,17 @@ I’m particularly interested in **defensive security**, including SIEM systems,
 
 ### What I Work On
 
-* Building **SOC environments** and simulating real-world cyber attacks
-* Analyzing logs and alerts using SIEM tools like **Wazuh**
-* Monitoring and inspecting network traffic for anomalies
-* Designing secure systems using **Zero Trust principles**
+* Performing SOC-style analysis of cyber incidents using real-world attack scenarios
+* Identifying indicators of compromise (IoCs) through log and behavior analysis
+* Applying SIEM concepts such as log correlation and alert reasoning
+* Analyzing network-level behaviors for potential threats
+* Exploring security architectures based on Zero Trust principles
 
 ---
 
 ### Tech Stack
 
-* **Security & Tools:** Wazuh, Wireshark, Nmap, Kali Linux
+* **Security & Tools:** Wireshark, Nmap, Kali Linux
 * **Languages:** Python, Java
 * **Concepts:** SIEM, Incident Response, Log Analysis, Network Security, ZTA
 
