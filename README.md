@@ -4,4 +4,4 @@ I'm a Computer Science student passionate about building scalable web applicatio
 
 - Tech Stack: Java, Spring Boot, React, Tailwind CSS, 
 - Interests: Secure Systems, AI-powered apps
-- Learning: Data Structures, System Design, and Backend Engineering 
+- Learning: Data Structures, System Design, Security Architecture, and Backend Engineering 
